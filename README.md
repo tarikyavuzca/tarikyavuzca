@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yavuz Tarik</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
 
-## About Me
+## :bust_in_silhouette:	 About Me
 
-<div>
-<img  src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+- 🙋‍♂️ I'm a passionate ##Full Stack Developer from Canada 
 
 - 🔭 I’m currently working on **something exiting**
 
 - 🌱 I’m currently learning **Typescript**
-</div>
+
+- 🙏 I’m looking to collaborate for  projects that can give me opportunity to gain more exprerience on developing code...
   
 
 ## :information_source: My Data
