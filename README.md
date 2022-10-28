@@ -4,7 +4,7 @@
 
 - 🙋‍♂️ I'm a passionate ##Full Stack Developer from Canada 
 
-- 🔭 I’m currently working on **something exiting**
+- 🔭 I’m currently working on AWS, DevOps
 
 - 🌱 I’m currently learning **Typescript**
 
