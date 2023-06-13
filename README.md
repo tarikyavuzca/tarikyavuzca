@@ -2,11 +2,9 @@
 
 ## :bust_in_silhouette:	 About Me
 
-- 🙋‍♂️ I'm a passionate ##Full Stack Developer from Canada 
+- 🙋‍♂️ I'm a passionate ##DevOps Engineer from Canada 
 
-- 🔭 I’m currently working on AWS, DevOps
-
-- 🌱 I’m currently learning **Typescript**
+- 🔭 I’m currently working on Kubernetes, Docker, Jenkins and Ansible Projects
 
 - 🙏 I’m looking to collaborate for  projects that can give me opportunity to gain more exprerience on developing code...
   
